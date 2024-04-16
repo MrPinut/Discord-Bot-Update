@@ -1,0 +1,17 @@
+
+.white
+{
+    color : white;
+    margin-left: 40px !important;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+
+@media only screen and (max-width: 799px) {
+
+    .white
+    {
+        margin-left: 10px !important;
+    }
+}

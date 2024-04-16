@@ -1,0 +1,15 @@
+{
+    "contractAddressInvest" : "0x98AE76a8609a9D1fd29bd537AC5FE3B9890E2574",
+    "contractAddressInvestOld" : "0x2C1Af5316196AB518ed5Cb69f6e1eBc9da929993",
+    "contractAddressAlf" : "0x5dD57A48bBd74361968C69A7C4d7695EC62F2380",
+    "contractAddressAlfOld" :"0xf10802b7B4CeA5602C8557B845B0bEd2e621e372",
+    "contractAddressStable" : "0xD87Ba7A50B2E7E660f678A895E4B72E7CB4CCd9C",
+    "contractAddressAgregator" : "0x5569d94E130888d116a842BD42d8C1e94aeC753a",
+    "alfDecimals": 1e18,
+    "stableDecimals": 1e6,
+    "networkId" : 1,
+    "networkName" : "Ethereum",
+    "provider" : "wss://eth-goerli.g.alchemy.com/v2/omyNoTIRVtsVnn5HBOzaiBanXyIbiEi-",
+    "apiUrl": "https://radiant-taiga-22586.herokuapp.com",
+    "infosHeader" : "Our private round is open. Don't miss the chance to jump in, starting from $500!"
+}
